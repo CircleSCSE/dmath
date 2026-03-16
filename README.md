@@ -12,7 +12,7 @@
 | 5 | THERE EXISTS AN x, NOT Q(x) | $$P$$ |
 | 6 | IF P THEN Q EQUIVALENT TO NOT P OR Q | $$P$$ |
 | 7 | Euler's Identity |  $$P$$  |
-| 8 | SUM of n from 1 to 100 Equals 5050 | $$P$$ |
+| 8 | SUM of n from 1 to 100 Equals 5050 | $$P_P$$ |
 
 ### 2.2 Translation
 Using the propositions 
